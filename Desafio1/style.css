@@ -1,0 +1,21 @@
+h1{
+    background-color:#583b72;
+    font: size 90px;
+    display: grid;
+    place-items: center;
+
+    height: 6vh;
+}
+
+body{
+    background-color:#0a0a09;
+    font-size: 15px;
+    color: antiquewhite;
+}
+nav{
+    color: #583b72;
+    display: block;
+    
+
+
+}
